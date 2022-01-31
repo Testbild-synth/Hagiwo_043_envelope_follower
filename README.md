@@ -7,4 +7,6 @@ This project is a through hole PCB version the HAGIWO 043 envelope follower. I a
 
 You can find the schematic and BOM in the root folder. For the PCBs, the module has one circuit PCB and one panel PCB. You can order them on any common PCB manufacturing service, I used JLCPCB. Standard settings should be fine.
 
+<img src="images/panel_043.png" width="40%" height="40%">
+
 **Currently, the schematic and PCB are unverified**
