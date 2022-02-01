@@ -10,11 +10,10 @@ You can find the schematic and BOM in the root folder. For the PCBs, the module 
 
 <img src="images/panel_043.JPG" width="20%" height="20%">
 
-**Currently, the schematic and PCB are unverified**
+For assembly, the guitar jack is optional. It will stick out and has to be connected to the rest of the pcb via wires. Look for the pads named "guitar in" and "gnd" on the pcb and connect those to the inner and outer log of a mono guitar/6.5mm jack socket.
+
 
 # TODO:
 The board has been ordered but i need to
 - verify that it works
-- upload gerber
-- upload schematic
 - upload BOM
