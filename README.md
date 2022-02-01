@@ -10,3 +10,10 @@ You can find the schematic and BOM in the root folder. For the PCBs, the module 
 <img src="images/panel_043.JPG" width="20%" height="20%">
 
 **Currently, the schematic and PCB are unverified**
+
+# TODO:
+The board has been ordered but i need to
+- verify that it works
+- upload gerber
+- upload schematic
+- upload BOM
