@@ -2,7 +2,7 @@
 
 This project is a through hole PCB version the HAGIWO 043 envelope follower. I also added a guitar jack input with more amplification to be able to plug in a variety of instruments.
 
-## CAREFUL, PCB IS NOT YET VERIFIED TO WORK
+## STATUS: I HAVE RECEIVED THE PCB AND I AM CURRENTLY BUILDING IT, WILL UPDATE ONCE IT WORKS
 
 ## Hardware and PCB
 
