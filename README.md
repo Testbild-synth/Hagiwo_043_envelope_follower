@@ -2,11 +2,15 @@
 
 This project is a through hole PCB version the HAGIWO 043 envelope follower. I also added a guitar jack input with more amplification to be able to plug in a variety of instruments.
 
-## STATUS: I HAVE RECEIVED THE PCB AND I AM CURRENTLY BUILDING IT, WILL UPDATE ONCE IT WORKS
+## STATUS: NOW CONFIRMED WORKING!
 
 ## Hardware and PCB
+For this one I wanted to fit it all onto one PCB and make the guitar jack fit. This was quite a task and I'm afraid the pcb ended up a bit messy in the end because of this. It still works fine, but has a lot of overlapping components and you have to be careful when building it.
 
-You can find the schematic and BOM in the root folder. For the PCBs, the module has one circuit PCB and one panel PCB. You can order them on any common PCB manufacturing service, I used JLCPCB. Standard settings should be fine.
+You can find the schematic and BOM in the root folder. 
+For the PCBs, the module has one circuit PCB and one panel PCB. 
+You can order them on any common PCB manufacturing service, I used JLCPCB. Standard settings should be fine.
+
 
 <img src="images/panel_043.JPG" width="20%" height="20%">
 
