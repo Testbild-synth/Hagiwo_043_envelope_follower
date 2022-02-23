@@ -1,5 +1,5 @@
 # Hagiwo Eurorack Envelope Follower
-<img src="images/front_in_rack.jpg" width="20%" height="20%">
+<img src="images/front_in_rack.jpg" width="30%" height="30%">
 
 This project is a through hole PCB version the HAGIWO 043 envelope follower. I also added a guitar jack input with more amplification to be able to plug in a variety of instruments.
 
